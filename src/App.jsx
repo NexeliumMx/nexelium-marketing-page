@@ -17,7 +17,7 @@ function App() {
       }}
     >
       <Typography variant="h4" component="h1" gutterBottom>
-        ¡Hola Somos Nexelium!
+        ¡Hola! Somos Nexelium
       </Typography>
       <Typography
         variant="body1"
